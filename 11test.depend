@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588178994 source:c:\users\Пользователь\desktop\111111\find_minmax.cpp
+	"find_minmax.h"
+
+1588178994 c:\users\Пользователь\desktop\111111\find_minmax.h
+	<vector>
+
