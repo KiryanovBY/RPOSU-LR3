@@ -1,12 +1,12 @@
 #include "find_minmax.h"
-#include "input_numbers.h"
-#include "make_histogram.h"
-#include "show_histogram_text.h"
-#include "svg_begin.h"
-#include "svg_end.h"
-#include "svg_text.h"
-#include "svg_rect.h"
-#include "show_histogram_svg.h"
+//#include "input_numbers.h"
+//#include "make_histogram.h"
+//#include "show_histogram_text.h"
+//#include "svg_begin.h"
+//#include "svg_end.h"
+//#include "svg_text.h"
+//#include "svg_rect.h"
+//#include "show_histogram_svg.h"
 #include <cassert>
 
 void test_positive() {
