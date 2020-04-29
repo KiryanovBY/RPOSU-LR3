@@ -5,3 +5,69 @@
 1588178994 c:\users\Пользователь\desktop\111111\find_minmax.h
 	<vector>
 
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\find_minmax.cpp
+	"find_minmax.h"
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\find_minmax.h
+	<vector>
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\input_numbers.cpp
+	"input_numbers.h"
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\input_numbers.h
+	<vector>
+	<iostream>
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\make_histogram.cpp
+	"make_histogram.h"
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\make_histogram.h
+	<vector>
+	"find_minmax.h"
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\show_histogram_svg.cpp
+	"show_histogram_svg.h"
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\show_histogram_svg.h
+	<vector>
+	"svg_begin.h"
+	"svg_end.h"
+	"svg_text.h"
+	"svg_rect.h"
+	<string>
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\svg_begin.h
+	<iostream>
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\svg_end.h
+	<iostream>
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\svg_text.h
+	<iostream>
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\svg_rect.h
+	<iostream>
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\show_histogram_text.cpp
+	"show_histogram_text.h"
+
+1588182783 c:\users\Пользователь\desktop\cs-lab03-master\show_histogram_text.h
+	<vector>
+	<iostream>
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\svg_begin.cpp
+	"svg_begin.h"
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\svg_end.cpp
+	"svg_end.h"
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\svg_rect.cpp
+	"svg_rect.h"
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\svg_text.cpp
+	"svg_text.h"
+
+1588182783 source:c:\users\Пользователь\desktop\cs-lab03-master\test.cpp
+	"find_minmax.h"
+	<cassert>
+

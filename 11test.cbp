@@ -31,6 +31,25 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="find_minmax.cpp" />
+		<Unit filename="find_minmax.h" />
+		<Unit filename="input_numbers.cpp" />
+		<Unit filename="input_numbers.h" />
+		<Unit filename="make_histogram.cpp" />
+		<Unit filename="make_histogram.h" />
+		<Unit filename="show_histogram_svg.cpp" />
+		<Unit filename="show_histogram_svg.h" />
+		<Unit filename="show_histogram_text.cpp" />
+		<Unit filename="show_histogram_text.h" />
+		<Unit filename="svg_begin.cpp" />
+		<Unit filename="svg_begin.h" />
+		<Unit filename="svg_end.cpp" />
+		<Unit filename="svg_end.h" />
+		<Unit filename="svg_rect.cpp" />
+		<Unit filename="svg_rect.h" />
+		<Unit filename="svg_text.cpp" />
+		<Unit filename="svg_text.h" />
+		<Unit filename="test.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
