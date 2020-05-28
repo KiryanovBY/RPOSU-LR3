@@ -34,10 +34,10 @@ int main()
     size_t bin_count;
     cerr << "enter bin count";
     cin >> bin_count;*/
-    const auto input = read_input(cin);
+    const auto input = read_input(cin,true);
     //const auto bins = make_histogram(numbers, bin_count);
-    //show_histogram_svg(bins);
     const auto bins = make_histogram(input);
+    show_histogram_svg(bins);
     return 0;
 
 }
