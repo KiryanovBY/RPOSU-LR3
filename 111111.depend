@@ -86,7 +86,7 @@
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\lab03-histogram.cpp
 
-1588182783 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
+1590681208 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
 	<iostream>
 	<vector>
 	<cmath>
@@ -101,13 +101,14 @@
 	"svg_rect.h"
 	"show_histogram_svg.h"
 
-1590675968 c:\users\Пользователь\desktop\cs-lab03\input_numbers.h
+1590682000 c:\users\Пользователь\desktop\cs-lab03\input_numbers.h
 	<vector>
 	<iostream>
 
-1588182783 c:\users\Пользователь\desktop\cs-lab03\make_histogram.h
+1590682062 c:\users\Пользователь\desktop\cs-lab03\make_histogram.h
 	<vector>
 	"find_minmax.h"
+	"input_numbers.h"
 
 1588182783 c:\users\Пользователь\desktop\cs-lab03\show_histogram_text.h
 	<vector>
@@ -133,7 +134,7 @@
 	"svg_rect.h"
 	<string>
 
-1588182783 source:c:\users\Пользователь\desktop\cs-lab03\make_histogram.cpp
+1590681208 source:c:\users\Пользователь\desktop\cs-lab03\make_histogram.cpp
 	"make_histogram.h"
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\show_histogram_svg.cpp
@@ -154,6 +155,6 @@
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\svg_text.cpp
 	"svg_text.h"
 
-1590675887 source:c:\users\Пользователь\desktop\cs-lab03\input_numbers.cpp
+1590680558 source:c:\users\Пользователь\desktop\cs-lab03\input_numbers.cpp
 	"input_numbers.h"
 

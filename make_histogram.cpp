@@ -1,14 +1,14 @@
 #include "make_histogram.h"
-
-vector<size_t> make_histogram(const vector<double>& numbers, size_t bin_count)
+vector<size_t> make_histogram(Input Data)
+//vector<size_t> make_histogram(const vector<double>& numbers, size_t bin_count)
 {
     double min, max;
-    find_minmax(numbers, min, max);
-    vector<size_t>count(bin_count, 0);
-    for (double x : numbers)
+    find_minmax(Data.numbers, min, max);
+    vector<size_t>count(Data.bin_count, 0);
+    for (double x : Data.numbers)
     {
-        size_t bin_index = (size_t)(x - min) * (bin_count) / (max - min);
-        if (bin_index == bin_count)
+        size_t bin_index = (size_t)(x - min) * (Data.bin_count) / (max - min);
+        if (bin_index == Data.bin_count)
         {
             bin_index--;
         }
