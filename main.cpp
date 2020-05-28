@@ -11,6 +11,7 @@
 #include "svg_text.h"
 #include "svg_rect.h"
 #include "show_histogram_svg.h"
+#include <curl/curl.h>
 
 using namespace std;
 const size_t SCREEN_WIDTH = 80;
@@ -22,6 +23,7 @@ const size_t MAX_ASTERISK = SCREEN_WIDTH - 3 - 1;
 
 int main()
 {
+    curl_global_init(CURL_GLOBAL_ALL);
     /*size_t number_count;
     cerr << "enter number count > ";
     cin >> number_count;

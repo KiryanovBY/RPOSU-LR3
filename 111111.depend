@@ -86,7 +86,7 @@
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\lab03-histogram.cpp
 
-1590682605 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
+1590683535 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
 	<iostream>
 	<vector>
 	<cmath>
@@ -100,6 +100,7 @@
 	"svg_text.h"
 	"svg_rect.h"
 	"show_histogram_svg.h"
+	<curl/curl.h>
 
 1590682546 c:\users\Пользователь\desktop\cs-lab03\input_numbers.h
 	<vector>
@@ -157,4 +158,43 @@
 
 1590682720 source:c:\users\Пользователь\desktop\cs-lab03\input_numbers.cpp
 	"input_numbers.h"
+
+1587991348 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1588129392 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\curlver.h
+
+1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\easy.h
+
+1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\multi.h
+	"curl.h"
+
+1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\urlapi.h
+	"curl.h"
+
+1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\typecheck-gcc.h
 
