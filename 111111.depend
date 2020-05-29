@@ -86,8 +86,9 @@
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\lab03-histogram.cpp
 
-1590683535 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
+1590759747 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
 	<iostream>
+	<sstream>
 	<vector>
 	<cmath>
 	<string>
@@ -197,4 +198,125 @@
 	"curl.h"
 
 1587548874 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\typecheck-gcc.h
+
+1588182783 source:c:\programming\cs-lab03\find_minmax.cpp
+	"find_minmax.h"
+
+1588182783 c:\programming\cs-lab03\find_minmax.h
+	<vector>
+
+1590766895 source:c:\programming\cs-lab03\input_numbers.cpp
+	"input_numbers.h"
+
+1590766895 c:\programming\cs-lab03\input_numbers.h
+	<vector>
+	<iostream>
+
+1588182783 source:c:\programming\cs-lab03\lab03-histogram.cpp
+
+1590766895 source:c:\programming\cs-lab03\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<cmath>
+	<string>
+	"find_minmax.h"
+	"input_numbers.h"
+	"make_histogram.h"
+	"show_histogram_text.h"
+	"svg_begin.h"
+	"svg_end.h"
+	"svg_text.h"
+	"svg_rect.h"
+	"show_histogram_svg.h"
+	<curl/curl.h>
+
+1590682062 c:\programming\cs-lab03\make_histogram.h
+	<vector>
+	"find_minmax.h"
+	"input_numbers.h"
+
+1588182783 c:\programming\cs-lab03\show_histogram_text.h
+	<vector>
+	<iostream>
+
+1588182783 c:\programming\cs-lab03\svg_begin.h
+	<iostream>
+
+1588182783 c:\programming\cs-lab03\svg_end.h
+	<iostream>
+
+1588182783 c:\programming\cs-lab03\svg_text.h
+	<iostream>
+
+1588182783 c:\programming\cs-lab03\svg_rect.h
+	<iostream>
+
+1588182783 c:\programming\cs-lab03\show_histogram_svg.h
+	<vector>
+	"svg_begin.h"
+	"svg_end.h"
+	"svg_text.h"
+	"svg_rect.h"
+	<string>
+
+1587991348 c:\programming\cs-lab03\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1588129392 c:\programming\cs-lab03\curl\include\curl\curlver.h
+
+1587548874 c:\programming\cs-lab03\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1587548874 c:\programming\cs-lab03\curl\include\curl\easy.h
+
+1587548874 c:\programming\cs-lab03\curl\include\curl\multi.h
+	"curl.h"
+
+1587548874 c:\programming\cs-lab03\curl\include\curl\urlapi.h
+	"curl.h"
+
+1587548874 c:\programming\cs-lab03\curl\include\curl\typecheck-gcc.h
+
+1590682000 source:c:\programming\cs-lab03\make_histogram.cpp
+	"make_histogram.h"
+
+1588182783 source:c:\programming\cs-lab03\show_histogram_svg.cpp
+	"show_histogram_svg.h"
+
+1588182783 source:c:\programming\cs-lab03\show_histogram_text.cpp
+	"show_histogram_text.h"
+
+1588182783 source:c:\programming\cs-lab03\svg_begin.cpp
+	"svg_begin.h"
+
+1588182783 source:c:\programming\cs-lab03\svg_end.cpp
+	"svg_end.h"
+
+1588182783 source:c:\programming\cs-lab03\svg_rect.cpp
+	"svg_rect.h"
+
+1588182783 source:c:\programming\cs-lab03\svg_text.cpp
+	"svg_text.h"
 

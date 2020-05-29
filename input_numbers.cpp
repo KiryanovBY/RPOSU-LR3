@@ -20,7 +20,7 @@ Input read_input(istream& in, bool prompt) {
     data.numbers = input_numbers(in, number_count);
 
     if (prompt) cerr << "Enter bin count: ";
-    cin >> data.bin_count;
+    in >> data.bin_count;
 
     return data;
 }
