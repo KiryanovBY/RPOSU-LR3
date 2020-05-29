@@ -14,6 +14,7 @@
 #include "show_histogram_svg.h"
 #include <curl/curl.h>
 
+
 using namespace std;
 const size_t SCREEN_WIDTH = 80;
 const size_t MAX_ASTERISK = SCREEN_WIDTH - 3 - 1;

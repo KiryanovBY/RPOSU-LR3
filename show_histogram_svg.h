@@ -5,6 +5,10 @@
 #include "svg_text.h"
 #include "svg_rect.h"
 #include <string>
-using namespace std;
+#include <sstream>
+#include <cstdio>
+#include <windows.h>
 
+using namespace std;
+string make_info_text();
 void show_histogram_svg(const vector<size_t>&);

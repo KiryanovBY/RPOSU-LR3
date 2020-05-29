@@ -86,7 +86,7 @@
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\lab03-histogram.cpp
 
-1590759747 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
+1590768474 source:c:\users\Пользователь\desktop\cs-lab03\main.cpp
 	<iostream>
 	<sstream>
 	<vector>
@@ -103,7 +103,7 @@
 	"show_histogram_svg.h"
 	<curl/curl.h>
 
-1590682546 c:\users\Пользователь\desktop\cs-lab03\input_numbers.h
+1590766895 c:\users\Пользователь\desktop\cs-lab03\input_numbers.h
 	<vector>
 	<iostream>
 
@@ -128,13 +128,16 @@
 1588182783 c:\users\Пользователь\desktop\cs-lab03\svg_rect.h
 	<iostream>
 
-1588182783 c:\users\Пользователь\desktop\cs-lab03\show_histogram_svg.h
+1590768800 c:\users\Пользователь\desktop\cs-lab03\show_histogram_svg.h
 	<vector>
 	"svg_begin.h"
 	"svg_end.h"
 	"svg_text.h"
 	"svg_rect.h"
 	<string>
+	<sstream>
+	<cstdio>
+	<windows.h>
 
 1590682000 source:c:\users\Пользователь\desktop\cs-lab03\make_histogram.cpp
 	"make_histogram.h"
@@ -142,7 +145,7 @@
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\show_histogram_svg.cpp
 	"show_histogram_svg.h"
 
-1588182783 source:c:\users\Пользователь\desktop\cs-lab03\show_histogram_text.cpp
+1590768567 source:c:\users\Пользователь\desktop\cs-lab03\show_histogram_text.cpp
 	"show_histogram_text.h"
 
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\svg_begin.cpp
@@ -157,7 +160,7 @@
 1588182783 source:c:\users\Пользователь\desktop\cs-lab03\svg_text.cpp
 	"svg_text.h"
 
-1590682720 source:c:\users\Пользователь\desktop\cs-lab03\input_numbers.cpp
+1590766958 source:c:\users\Пользователь\desktop\cs-lab03\input_numbers.cpp
 	"input_numbers.h"
 
 1587991348 c:\users\Пользователь\desktop\cs-lab03\curl\include\curl\curl.h
